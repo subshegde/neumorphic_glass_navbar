@@ -2,7 +2,13 @@
 
 A beautiful and modern Flutter bottom navigation bar combining neumorphism and glassmorphism (frosted blur). Designed for elegant UI with depth, softness, and a vibrant translucent look that adapts to both light and dark themes.
 
-## Screenshots
+## Screenshot
+<img width="1280" height="720" alt="NeumorphicGlassNavbar" src="https://github.com/user-attachments/assets/66db538d-c33d-463d-8d1a-eb7d5c8e7c14" />
+
+## Video
+
+
+https://github.com/user-attachments/assets/b9d5ffde-3ce5-47b3-a4a0-ddad096b0312
 
 
 ## ✨ Features
